@@ -2,15 +2,15 @@
 
 #### Your name
 
-TODO
+YongAn Cao
 
 #### Your section leader's name
 
-TODO
+Bin Li
 
 #### Project title
 
-TODO
+Last Survivor
 
 ***
 
@@ -18,12 +18,12 @@ Short answers for the below questions suffice. If you want to alter your plan fo
 
 #### What have you done for your project so far?
 
-TODO
+We have made character and enemies and made the game where the character is able to shoot enemies and enemies can spawn.
 
 #### What have you not done for your project yet?
 
-TODO
+we have not added a level system yet and bosses.
 
 #### What problems, if any, have you encountered?
 
-TODO
+we have problems with accessing data with prefab. making the level system.
